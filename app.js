@@ -1,4 +1,3 @@
-console.log("Druze Real Estate");
 // Load existing data
 let units = JSON.parse(localStorage.getItem("units")) || [];
 
